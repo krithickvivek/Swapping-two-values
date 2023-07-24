@@ -18,6 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```python 
+#Program to swap two values.
+#Developed by: Krithick Vivekananda
+#RegisterNumber: 23009445
+ball1=input()
+ball2=input()
+bask=ball2
+ball2=ball1
+ball1=bask
+print("Swapped values are:",ball1,ball2)
+```
+## OUTPUT:
+![Output](swapvar.png)
+
+
+
 
 
 
